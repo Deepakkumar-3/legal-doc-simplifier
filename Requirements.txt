@@ -4,3 +4,4 @@ langchain-groq
 groq
 PyMuPDF
 python-docx
+python-dotenv
