@@ -2,5 +2,5 @@ streamlit
 langchain
 langchain-groq
 groq
-pymupdf
+PyMuPDF
 python-docx
